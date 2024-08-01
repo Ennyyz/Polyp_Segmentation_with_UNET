@@ -1,0 +1,6 @@
+# TODO: Update with exact module version
+numpy
+opencv-python
+tensorflow
+scikit-learn
+glob
